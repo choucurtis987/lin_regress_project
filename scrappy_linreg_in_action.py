@@ -4,6 +4,7 @@
 # In this script, I use my custom linear regression model to predict 'mpg' based
 # on a car's weight
 
+import pandas as pd
 import sklearn
 import matplotlib.pyplot as plt
 from scrappy_linreg import linreg
