@@ -37,7 +37,11 @@ clf.fit(X_train,y_train)
 # plotting the data points with best fit line through them:
 new_ys = clf.predict(X_test)
 plt.scatter(X_test,y_test)
+plt.xlabel("Car Weight")
+plt.ylabel("Car MPG")
+plt.title("TEST")
 plt.plot(X_test,new_ys,color='r')
 plt.show()
+
 # prints the r squared value of line:
 print(clf.score(X_test,y_test))
