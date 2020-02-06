@@ -1,6 +1,6 @@
 # Linear Regression Project 
-- [scrappy_linreg.py](/lin_regress_project/scrappy_linreg.py)
-- [scrappy_linreg_in_action.py](/lin_regress_project/scrappy_linreg_in_action.py)
+- [scrappy_linreg.py](/scrappy_linreg.py)
+- [scrappy_linreg_in_action.py](/scrappy_linreg_in_action.py)
 
 ## Predicting a Car's MPG based on Weight
 - In this project, I created my own linear regression model and used it to build a model
