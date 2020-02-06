@@ -5,7 +5,6 @@
 # model, 'data_x' and 'data_y' must be the same shape.
 
 import numpy as np
-import matplotlib.pyplot as plt
 import sklearn
 
 class linreg():
