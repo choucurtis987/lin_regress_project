@@ -6,7 +6,7 @@
 - In this project, I created my own linear regression model and used it to build a model
 that will predict a car's mpg based on its weight
 - The linear regression model finds the best fit line of the dataset and makes predictions based off of it
-- [scrappy_linreg.py](/lin_regress_project/scrappy_linreg.py) also ultilizes a R squared function where one could find the R squared value of the line
+- [scrappy_linreg.py](/scrappy_linreg.py) also ultilizes a R squared function where one could find the R squared value of the line
 - DATASET link: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
 ## Abstract
